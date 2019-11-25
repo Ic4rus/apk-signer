@@ -1,0 +1,9 @@
+Central Directory offset: 1359340
+Central Directory size: 45643
+Central Directory record: 451
+End of Central Directory offset: 1404983
+
+*.SF uncompress: 47282
+*.SF compress: 13249
+*.SF uncompress_crc32: 1779632862
+ouput_offset: 1359216
